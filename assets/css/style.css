@@ -191,3 +191,15 @@ hr {
     height: 100%;
     border-radius: 50%;
 }
+
+/* event times background */
+
+#times {
+    background-image: url(../images/dublin-city.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    overflow: hidden;
+
+}
